@@ -1,0 +1,195 @@
+{
+    "workout_duration": "0:42:04",
+    "analysis_type": "power",
+    "zone_analysis": {
+        "zone1": "00:17:31",
+        "zone2": "00:07:54",
+        "zone3": "00:10:15",
+        "zone4": "00:04:54",
+        "zone5": "00:01:23",
+        "zone6": "00:00:07",
+        "zone7": "00:00:00"
+    },
+    "number_of_intervals": 11,
+    "grouped_intervals": [
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:12:07.000Z",
+                    "end_time": "2025-04-12T12:12:56.000Z",
+                    "duration": 49.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 373.4734693877552,
+                    "max_value": 439.6
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 49.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:15:48.000Z",
+                    "end_time": "2025-04-12T12:17:54.000Z",
+                    "duration": 126.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 329.85079365079366,
+                    "max_value": 477.8
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 126.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:18:09.000Z",
+                    "end_time": "2025-04-12T12:19:15.000Z",
+                    "duration": 66.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5",
+                        "zone6"
+                    ],
+                    "average_value": 383.25757575757575,
+                    "max_value": 657.4
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 66.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:20:09.000Z",
+                    "end_time": "2025-04-12T12:21:38.000Z",
+                    "duration": 89.0,
+                    "zones": [
+                        "zone2",
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 345.1415730337078,
+                    "max_value": 500.6
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 89.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:23:09.000Z",
+                    "end_time": "2025-04-12T12:23:45.000Z",
+                    "duration": 36.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 354.42777777777775,
+                    "max_value": 441.4
+                },
+                {
+                    "start_time": "2025-04-12T12:24:39.000Z",
+                    "end_time": "2025-04-12T12:25:17.000Z",
+                    "duration": 38.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 338.5210526315789,
+                    "max_value": 399.4
+                }
+            ],
+            "number_of_intervals": 2,
+            "average_duration": 37.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:25:36.000Z",
+                    "end_time": "2025-04-12T12:26:42.000Z",
+                    "duration": 66.0,
+                    "zones": [
+                        "zone2",
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 353.7909090909092,
+                    "max_value": 426.8
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 66.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:31:03.000Z",
+                    "end_time": "2025-04-12T12:31:38.000Z",
+                    "duration": 35.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 315.40571428571434,
+                    "max_value": 354.4
+                },
+                {
+                    "start_time": "2025-04-12T12:34:34.000Z",
+                    "end_time": "2025-04-12T12:35:12.000Z",
+                    "duration": 38.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 315.4631578947369,
+                    "max_value": 360.0
+                },
+                {
+                    "start_time": "2025-04-12T12:36:11.000Z",
+                    "end_time": "2025-04-12T12:36:54.000Z",
+                    "duration": 43.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 378.32558139534876,
+                    "max_value": 463.0
+                }
+            ],
+            "number_of_intervals": 3,
+            "average_duration": 38.666666666666664
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-04-12T12:40:22.000Z",
+                    "end_time": "2025-04-12T12:40:52.000Z",
+                    "duration": 30.0,
+                    "zones": [
+                        "zone3"
+                    ],
+                    "average_value": 299.86,
+                    "max_value": 319.8
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 30.0
+        }
+    ],
+    "title": "0:42:04 cycling with 11 intervals of 30sec-2:06min in zone2-zone3-zone4-zone5-zone6"
+}

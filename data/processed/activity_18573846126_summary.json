@@ -1,0 +1,47 @@
+{
+    "workout_duration": "0:24:35",
+    "analysis_type": "heart_rate",
+    "zone_analysis": {
+        "zone1": "00:14:06",
+        "zone2": "00:07:30",
+        "zone3": "00:02:59",
+        "zone4": "00:00:00",
+        "zone5": "00:00:00"
+    },
+    "number_of_intervals": 2,
+    "grouped_intervals": [
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-03-19T09:01:42.000Z",
+                    "end_time": "2025-03-19T09:02:50.000Z",
+                    "duration": 68.0,
+                    "zones": [
+                        "zone3"
+                    ],
+                    "average_value": 152.47826086956522,
+                    "max_value": 154.1
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 68.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-03-19T09:10:15.000Z",
+                    "end_time": "2025-03-19T09:11:17.000Z",
+                    "duration": 62.0,
+                    "zones": [
+                        "zone3"
+                    ],
+                    "average_value": 153.71666666666667,
+                    "max_value": 155.1
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 62.0
+        }
+    ],
+    "title": "0:24:35 workout with 2x 1:05min zone3"
+}

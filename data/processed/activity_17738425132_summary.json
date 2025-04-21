@@ -1,0 +1,84 @@
+{
+    "workout_duration": "1:21:58",
+    "analysis_type": "power",
+    "zone_analysis": {
+        "zone1": "00:34:25",
+        "zone2": "00:18:00",
+        "zone3": "00:19:09",
+        "zone4": "00:10:12",
+        "zone5": "00:00:12",
+        "zone6": "00:00:00",
+        "zone7": "00:00:00"
+    },
+    "number_of_intervals": 4,
+    "grouped_intervals": [
+        {
+            "intervals": [
+                {
+                    "start_time": "2024-12-11T15:49:55.000Z",
+                    "end_time": "2024-12-11T15:59:44.000Z",
+                    "duration": 589.0,
+                    "zones": [
+                        "zone3"
+                    ],
+                    "average_value": 299.18471986417677,
+                    "max_value": 324.8
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 589.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2024-12-11T16:04:31.000Z",
+                    "end_time": "2024-12-11T16:14:26.000Z",
+                    "duration": 595.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 342.5989915966389,
+                    "max_value": 366.6
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 595.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2024-12-11T16:19:50.000Z",
+                    "end_time": "2024-12-11T16:25:04.000Z",
+                    "duration": 314.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 347.1657142857142,
+                    "max_value": 384.0
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 314.0
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2024-12-11T16:25:10.000Z",
+                    "end_time": "2024-12-11T16:29:44.000Z",
+                    "duration": 274.0,
+                    "zones": [
+                        "zone3",
+                        "zone4"
+                    ],
+                    "average_value": 326.28248175182466,
+                    "max_value": 364.0
+                }
+            ],
+            "number_of_intervals": 1,
+            "average_duration": 274.0
+        }
+    ],
+    "title": "1:21:58 cycling with 2x 9:52min zone3-zone4, 1x 5:14min zone3-zone4, 1x 4:34min zone3-zone4"
+}

@@ -1,0 +1,330 @@
+{
+    "workout_duration": "1:20:49",
+    "analysis_type": "power",
+    "zone_analysis": {
+        "zone1": "00:54:25",
+        "zone2": "00:13:01",
+        "zone3": "00:00:45",
+        "zone4": "00:06:03",
+        "zone5": "00:06:35",
+        "zone6": "00:00:00",
+        "zone7": "00:00:00"
+    },
+    "number_of_intervals": 25,
+    "grouped_intervals": [
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-02-08T14:15:10.000Z",
+                    "end_time": "2025-02-08T14:15:43.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 430.7030303030304,
+                    "max_value": 465.8
+                },
+                {
+                    "start_time": "2025-02-08T14:15:54.000Z",
+                    "end_time": "2025-02-08T14:16:27.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 401.2484848484848,
+                    "max_value": 459.6
+                },
+                {
+                    "start_time": "2025-02-08T14:16:40.000Z",
+                    "end_time": "2025-02-08T14:17:13.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 395.87272727272733,
+                    "max_value": 443.8
+                },
+                {
+                    "start_time": "2025-02-08T14:17:25.000Z",
+                    "end_time": "2025-02-08T14:17:58.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 405.27878787878797,
+                    "max_value": 454.0
+                },
+                {
+                    "start_time": "2025-02-08T14:18:10.000Z",
+                    "end_time": "2025-02-08T14:18:42.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 401.51875,
+                    "max_value": 469.4
+                },
+                {
+                    "start_time": "2025-02-08T14:18:55.000Z",
+                    "end_time": "2025-02-08T14:19:28.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 414.15151515151524,
+                    "max_value": 491.2
+                },
+                {
+                    "start_time": "2025-02-08T14:20:25.000Z",
+                    "end_time": "2025-02-08T14:20:57.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone2",
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 383.24375000000003,
+                    "max_value": 434.8
+                },
+                {
+                    "start_time": "2025-02-08T14:21:11.000Z",
+                    "end_time": "2025-02-08T14:21:41.000Z",
+                    "duration": 30.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 382.22666666666663,
+                    "max_value": 421.0
+                },
+                {
+                    "start_time": "2025-02-08T14:21:55.000Z",
+                    "end_time": "2025-02-08T14:22:27.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 390.48750000000007,
+                    "max_value": 445.0
+                },
+                {
+                    "start_time": "2025-02-08T14:22:40.000Z",
+                    "end_time": "2025-02-08T14:23:12.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 408.75,
+                    "max_value": 448.4
+                },
+                {
+                    "start_time": "2025-02-08T14:23:25.000Z",
+                    "end_time": "2025-02-08T14:23:57.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 395.3062500000001,
+                    "max_value": 465.6
+                },
+                {
+                    "start_time": "2025-02-08T14:24:10.000Z",
+                    "end_time": "2025-02-08T14:24:42.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 404.53125,
+                    "max_value": 472.0
+                }
+            ],
+            "number_of_intervals": 12,
+            "average_duration": 32.25
+        },
+        {
+            "intervals": [
+                {
+                    "start_time": "2025-02-08T14:38:28.000Z",
+                    "end_time": "2025-02-08T14:38:59.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 396.08387096774203,
+                    "max_value": 435.0
+                },
+                {
+                    "start_time": "2025-02-08T14:39:11.000Z",
+                    "end_time": "2025-02-08T14:39:44.000Z",
+                    "duration": 33.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 431.38787878787883,
+                    "max_value": 471.8
+                },
+                {
+                    "start_time": "2025-02-08T14:39:57.000Z",
+                    "end_time": "2025-02-08T14:40:29.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 420.34999999999997,
+                    "max_value": 448.2
+                },
+                {
+                    "start_time": "2025-02-08T14:40:43.000Z",
+                    "end_time": "2025-02-08T14:41:13.000Z",
+                    "duration": 30.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 411.6866666666666,
+                    "max_value": 438.8
+                },
+                {
+                    "start_time": "2025-02-08T14:41:27.000Z",
+                    "end_time": "2025-02-08T14:41:58.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 396.2064516129033,
+                    "max_value": 435.8
+                },
+                {
+                    "start_time": "2025-02-08T14:42:12.000Z",
+                    "end_time": "2025-02-08T14:42:43.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 425.43225806451625,
+                    "max_value": 456.8
+                },
+                {
+                    "start_time": "2025-02-08T14:42:56.000Z",
+                    "end_time": "2025-02-08T14:43:28.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 413.65624999999994,
+                    "max_value": 439.8
+                },
+                {
+                    "start_time": "2025-02-08T14:43:42.000Z",
+                    "end_time": "2025-02-08T14:44:13.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 418.26451612903224,
+                    "max_value": 469.8
+                },
+                {
+                    "start_time": "2025-02-08T14:44:26.000Z",
+                    "end_time": "2025-02-08T14:44:57.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 403.2258064516129,
+                    "max_value": 440.4
+                },
+                {
+                    "start_time": "2025-02-08T14:45:11.000Z",
+                    "end_time": "2025-02-08T14:45:43.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 390.61250000000007,
+                    "max_value": 451.2
+                },
+                {
+                    "start_time": "2025-02-08T14:45:56.000Z",
+                    "end_time": "2025-02-08T14:46:28.000Z",
+                    "duration": 32.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 403.6812500000001,
+                    "max_value": 444.8
+                },
+                {
+                    "start_time": "2025-02-08T14:46:42.000Z",
+                    "end_time": "2025-02-08T14:47:13.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 400.9161290322582,
+                    "max_value": 440.2
+                },
+                {
+                    "start_time": "2025-02-08T14:47:27.000Z",
+                    "end_time": "2025-02-08T14:47:58.000Z",
+                    "duration": 31.0,
+                    "zones": [
+                        "zone3",
+                        "zone4",
+                        "zone5"
+                    ],
+                    "average_value": 424.24516129032264,
+                    "max_value": 462.4
+                }
+            ],
+            "number_of_intervals": 13,
+            "average_duration": 31.384615384615383
+        }
+    ],
+    "title": "1:20:49 cycling with 12x 32sec zone3-zone4-zone5, 13x 31sec zone3-zone4-zone5"
+}
