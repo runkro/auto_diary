@@ -1,0 +1,27 @@
+power_interval_thresholds:
+  increase: 50  # Watts
+  sustain_above: 269 # Watts
+  sustain_duration: 30 # seconds
+  decrease: -50 # Watts
+
+heart_rate_interval_thresholds:
+  increase: 10   # bpm
+  sustain_above: 150 # bpm
+  sustain_duration: 30 # seconds
+  decrease: -10  # bpm
+
+power_zones:
+  zone1: [0, 200]
+  zone2: [200, 270] 
+  zone3: [270, 340]  
+  zone4: [340, 420]  
+  zone5: [420, 600] 
+  zone6: [600, 900]
+  zone7: [900, 2000]
+
+heart_rate_zones:
+  zone1: [0, 135]  
+  zone2: [135, 150]
+  zone3: [150, 165]
+  zone4: [165, 180]
+  zone5: [180, 200]
